@@ -7,13 +7,13 @@ about:
   head: 5ad5083
   archived: false
   latestVersion: v3.0.22
-  collectedAt: 2026-09-04T19:27:07Z
+  collectedAt: 2026-09-04T21:08:11Z
 timeline:
   created: 2025-02-25
   lastCommit: 2026-09-01
   lastRelease: 2026-08-24
 popularity:
-  star: 37077
+  star: 37078
   watcher: 139
   fork: 3116
   release: 23
@@ -85,5 +85,73 @@ total:
   openIssue: 921
   commit: 891
 ---
+path: /home/runner/.x-repo/github.com/musistudio/claude-code-router
+collectedAt: 2026-09-04T21:08:15Z
+loc:
+  Json:
+    code: 695993
+    comments: 0
+    blanks: 0
+    files: 25
+  TypeScript:
+    code: 118053
+    comments: 544
+    blanks: 9998
+    files: 269
+  JavaScript:
+    code: 56146
+    comments: 136
+    blanks: 3500
+    files: 142
+  Tsx:
+    code: 37850
+    comments: 113
+    blanks: 2329
+    files: 61
+  Css:
+    code: 3737
+    comments: 7
+    blanks: 572
+    files: 3
+  Svg:
+    code: 1058
+    comments: 13
+    blanks: 15
+    files: 13
+  Sh:
+    code: 181
+    comments: 1
+    blanks: 25
+    files: 1
+  Html:
+    code: 95
+    comments: 0
+    blanks: 0
+    files: 4
+  Dockerfile:
+    code: 61
+    comments: 0
+    blanks: 14
+    files: 1
+  Yaml:
+    code: 13
+    comments: 1
+    blanks: 1
+    files: 1
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 8851
+    blanks: 3277
+    files: 113
+total:
+  code: 914267
+  comments: 9670
+  blanks: 19782
+  files: 634
 ---
 
