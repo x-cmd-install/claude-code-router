@@ -1,23 +1,25 @@
 about:
-  description: One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
+  description:
+  |
+    One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
   license: MIT
   homepage: https://ccrdesk.top/
   head: 5ad5083
   archived: false
   latestVersion: v3.0.22
-  collectedAt: 2026-09-04T04:21:59Z
+  collectedAt: 2026-09-04T19:27:07Z
 timeline:
   created: 2025-02-25
   lastCommit: 2026-09-01
   lastRelease: 2026-08-24
 popularity:
-  star: 37058
+  star: 37077
   watcher: 139
-  fork: 3114
+  fork: 3116
   release: 23
   contributor: 50
-  pullRequest: 296
-  issue: 1326
+  pullRequest: 387
+  issue: 1327
 language:
   TypeScript: 6100792
   JavaScript: 2144391
@@ -25,7 +27,7 @@ language:
   HTML: 7557
   Shell: 6777
   Dockerfile: 2438
-totalLine: 8306918
+totalBytes: 8306918
 recent:
   last30d:
     since: 2026-08-05
@@ -33,15 +35,23 @@ recent:
     mergedPR: 21
     openPR: 21
     closedIssue: 15
-    openIssue: 55
+    openIssue: 56
     commit: 73
+  last60d:
+    since: 2026-07-06
+    release: 15
+    mergedPR: 55
+    openPR: 36
+    closedIssue: 46
+    openIssue: 101
+    commit: 280
   last90d:
     since: 2026-06-06
     release: 23
     mergedPR: 59
     openPR: 47
     closedIssue: 52
-    openIssue: 122
+    openIssue: 123
     commit: 408
   last180d:
     since: 2026-03-08
@@ -49,7 +59,7 @@ recent:
     mergedPR: 59
     openPR: 113
     closedIssue: 60
-    openIssue: 189
+    openIssue: 190
     commit: 408
   last360d:
     since: 2025-09-09
@@ -57,5 +67,23 @@ recent:
     mergedPR: 67
     openPR: 168
     closedIssue: 128
-    openIssue: 492
+    openIssue: 493
     commit: 525
+  last720d:
+    since: 2024-09-14
+    release: 23
+    mergedPR: 91
+    openPR: 189
+    closedIssue: 406
+    openIssue: 921
+    commit: 891
+total:
+  release: 23
+  mergedPR: 91
+  openPR: 189
+  closedIssue: 406
+  openIssue: 921
+  commit: 891
+---
+---
+
