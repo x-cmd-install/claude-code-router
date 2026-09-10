@@ -1,52 +1,52 @@
 # claude-code-router
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 
-![claude-code-router](https://repo.x-cmd.io/claude-code-router.svg)
+![claude-code-router](https://repo.x-cmd.io/claude-code-router.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install claude-code-router
 ```
 
-## Code insight
+## 代码规模
 
-Total: **992,140** lines of code across **532** files in the top 5 languages.
+合计: **992,140** 行代码（覆盖前 5 种语言、共 **532** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Json | 762,132 | 0 | 0 | 26 |
 | TypeScript | 121,904 | 594 | 10,277 | 279 |
 | JavaScript | 59,261 | 144 | 3,727 | 162 |
 | Tsx | 39,246 | 118 | 2,405 | 63 |
 | Yaml | 4,454 | 1 | 1,356 | 2 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/musistudio/claude-code-router>
-- **Homepage**: <https://ccrdesk.top/>
-- **License**: MIT
+- **上游仓库**: <https://github.com/musistudio/claude-code-router>
+- **官网**: <https://ccrdesk.top/>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v3.1.0` (2026-09-10)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 14
+- **最新版本**: `v3.1.0` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 14 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 37,176 · **Forks**: 3,125 · **Open issues**: 1,341 · **Contributors**: 50
+- **Star**: 37,176 · **Fork**: 3,125 · **开放 issue**: 1,341 · **贡献者**: 50
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 24 · **Merged PRs**: 91 · **Open PRs**: 197 · **Closed issues**: 409 · **Open issues**: 932 · **Commits**: 914
+- **发布数**: 24 · **已合并 PR**: 91 · **开放 PR**: 197 · **已关闭 issue**: 409 · **开放 issue**: 932 · **提交数**: 914
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 18 | 24 | 16 | 59 | 74 |
 | last60d | 2026-07-12 | 12 | 48 | 45 | 42 | 99 | 225 |
@@ -55,10 +55,10 @@ Total: **992,140** lines of code across **532** files in the top 5 languages.
 | 360d | 2025-09-15 | 24 | 66 | 175 | 128 | 484 | 546 |
 | last720d | 2024-09-20 | 24 | 91 | 197 | 409 | 932 | 914 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [Claude-Code-Router_3.1.0-mac-Apple-Silicon-arm64.dmg](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/Claude-Code-Router_3.1.0-mac-Apple-Silicon-arm64.dmg) | 113.7 MiB | `other` |
 | [Claude-Code-Router_3.1.0-mac-Apple-Silicon-arm64.dmg.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/Claude-Code-Router_3.1.0-mac-Apple-Silicon-arm64.dmg.blockmap) | 123.4 KiB | `other` |
 | [Claude-Code-Router_3.1.0-mac-Apple-Silicon-arm64.zip](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/Claude-Code-Router_3.1.0-mac-Apple-Silicon-arm64.zip) | 112.3 MiB | `other` |
@@ -74,22 +74,22 @@ Total: **992,140** lines of code across **532** files in the top 5 languages.
 | [latest-mac.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/latest-mac.yml) | 930 B | `other` |
 | [latest.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/latest.yml) | 353 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **5** distros on [repology.org](https://repology.org/project/claude-code-router). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/claude-code-router) 上共有 **5** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `3.0.22` | ✅ latest |
 | Nix unstable | `2.0.0` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for claude-code-router lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-code-router` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+claude-code-router 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `claude-code-router` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/claude-code-router.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/claude-code-router.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:19:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:19:30Z._
