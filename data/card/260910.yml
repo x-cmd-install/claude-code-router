@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.1.0"
   latestRelease: "v3.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:18:55Z
+  collectedAt: 2026-09-10T22:28:32Z
 timeline:
   created: 2025-02-25
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 37176
+  star: 37177
   watcher: 139
   fork: 3125
   release: 24
@@ -88,7 +88,7 @@ total:
   commit: 914
 ---
 path: /home/runner/.x-repo/github.com/musistudio/claude-code-router
-collectedAt: 2026-09-10T21:19:08Z
+collectedAt: 2026-09-10T22:28:38Z
 loc:
   Json:
     code: 762132
@@ -158,15 +158,15 @@ total:
 ---
 
 ---
-  - Claude Code Router
   - better_sqlite3.node
+  - Claude Code Router
+  - Claude Code Router Helper (GPU)
+  - Electron Framework
+  - chrome_crashpad_handler
+  - ReactiveObjC
+  - Claude Code Router Helper (Plugin)
   - Claude Code Router Helper
   - ShipIt
   - Squirrel
-  - Claude Code Router Helper (GPU)
-  - Claude Code Router Helper (Plugin)
-  - chrome_crashpad_handler
-  - Electron Framework
   - Mantle
   - Claude Code Router Helper (Renderer)
-  - ReactiveObjC
