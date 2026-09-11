@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: claude-code-router
   visiblename: claude-code-router
-  version: 3.0.22
+  version: 3.1.0
   origversion: null
   status: newest
   summary: Tool to route Claude Code requests to different models and customize any request
