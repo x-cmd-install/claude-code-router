@@ -38,7 +38,7 @@ Total: **992,140** lines of code across **532** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,180 · **Forks**: 3,128 · **Open issues**: 1,342 · **Contributors**: 50
+- **Stars**: 37,188 · **Forks**: 3,127 · **Open issues**: 1,342 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -80,7 +80,7 @@ Reported by **5** distros on [repology.org](https://repology.org/project/claude-
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.0.22` | ✅ latest |
+| Homebrew | `3.1.0` | ✅ latest |
 | Nix unstable | `2.0.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -92,4 +92,4 @@ Install metadata for claude-code-router lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:05:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:47:19Z._

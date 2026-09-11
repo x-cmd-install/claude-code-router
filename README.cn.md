@@ -38,7 +38,7 @@ x install claude-code-router
 
 ## 流行度
 
-- **Star**: 37,180 · **Fork**: 3,128 · **开放 issue**: 1,342 · **贡献者**: 50
+- **Star**: 37,188 · **Fork**: 3,127 · **开放 issue**: 1,342 · **贡献者**: 50
 
 ## 累计统计
 
@@ -80,7 +80,7 @@ x install claude-code-router
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `3.0.22` | ✅ latest |
+| Homebrew | `3.1.0` | ✅ latest |
 | Nix unstable | `2.0.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -92,4 +92,4 @@ claude-code-router 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:05:13Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:47:19Z._
