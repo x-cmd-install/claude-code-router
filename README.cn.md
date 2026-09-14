@@ -38,22 +38,22 @@ x install claude-code-router
 
 ## 流行度
 
-- **Star**: 37,216 · **Fork**: 3,127 · **开放 issue**: 1,345 · **贡献者**: 50
+- **Star**: 37,225 · **Fork**: 3,130 · **开放 issue**: 1,345 · **贡献者**: 50
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 91 · **开放 PR**: 200 · **已关闭 issue**: 409 · **开放 issue**: 936 · **提交数**: 914
+- **发布数**: 24 · **已合并 PR**: 91 · **开放 PR**: 201 · **已关闭 issue**: 409 · **开放 issue**: 936 · **提交数**: 914
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 16 | 25 | 13 | 53 | 74 |
-| last60d | 2026-07-15 | 10 | 42 | 46 | 38 | 97 | 225 |
-| 90d | 2026-06-15 | 24 | 59 | 57 | 55 | 130 | 429 |
-| last180d | 2026-03-17 | 24 | 59 | 122 | 62 | 195 | 429 |
-| 360d | 2025-09-18 | 24 | 66 | 178 | 128 | 484 | 546 |
-| last720d | 2024-09-23 | 24 | 91 | 200 | 409 | 936 | 914 |
+| 30d | 2026-08-15 | 2 | 16 | 25 | 13 | 52 | 46 |
+| last60d | 2026-07-16 | 9 | 42 | 45 | 37 | 96 | 180 |
+| 90d | 2026-06-16 | 24 | 59 | 56 | 55 | 130 | 410 |
+| last180d | 2026-03-18 | 24 | 59 | 123 | 62 | 194 | 429 |
+| 360d | 2025-09-19 | 24 | 66 | 179 | 128 | 481 | 544 |
+| last720d | 2024-09-24 | 24 | 91 | 201 | 409 | 936 | 914 |
 
 ## Release 资产
 
@@ -74,15 +74,6 @@ x install claude-code-router
 | [latest-mac.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/latest-mac.yml) | 930 B | `other` |
 | [latest.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/latest.yml) | 353 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/claude-code-router) 上共有 **5** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `3.1.0` | ✅ latest |
-| Nix unstable | `2.0.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 claude-code-router 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `claude-code-router` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +83,4 @@ claude-code-router 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:16:31Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:37:45Z._

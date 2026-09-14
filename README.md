@@ -38,22 +38,22 @@ Total: **992,140** lines of code across **532** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,216 · **Forks**: 3,127 · **Open issues**: 1,345 · **Contributors**: 50
+- **Stars**: 37,225 · **Forks**: 3,130 · **Open issues**: 1,345 · **Contributors**: 50
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 91 · **Open PRs**: 200 · **Closed issues**: 409 · **Open issues**: 936 · **Commits**: 914
+- **Releases**: 24 · **Merged PRs**: 91 · **Open PRs**: 201 · **Closed issues**: 409 · **Open issues**: 936 · **Commits**: 914
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 16 | 25 | 13 | 53 | 74 |
-| last60d | 2026-07-15 | 10 | 42 | 46 | 38 | 97 | 225 |
-| 90d | 2026-06-15 | 24 | 59 | 57 | 55 | 130 | 429 |
-| last180d | 2026-03-17 | 24 | 59 | 122 | 62 | 195 | 429 |
-| 360d | 2025-09-18 | 24 | 66 | 178 | 128 | 484 | 546 |
-| last720d | 2024-09-23 | 24 | 91 | 200 | 409 | 936 | 914 |
+| 30d | 2026-08-15 | 2 | 16 | 25 | 13 | 52 | 46 |
+| last60d | 2026-07-16 | 9 | 42 | 45 | 37 | 96 | 180 |
+| 90d | 2026-06-16 | 24 | 59 | 56 | 55 | 130 | 410 |
+| last180d | 2026-03-18 | 24 | 59 | 123 | 62 | 194 | 429 |
+| 360d | 2025-09-19 | 24 | 66 | 179 | 128 | 481 | 544 |
+| last720d | 2024-09-24 | 24 | 91 | 201 | 409 | 936 | 914 |
 
 ## Release assets
 
@@ -74,15 +74,6 @@ Total: **992,140** lines of code across **532** files in the top 5 languages.
 | [latest-mac.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/latest-mac.yml) | 930 B | `other` |
 | [latest.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.0/latest.yml) | 353 B | `other` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/claude-code-router). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.1.0` | ✅ latest |
-| Nix unstable | `2.0.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for claude-code-router lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-code-router` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +83,4 @@ Install metadata for claude-code-router lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:16:30Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:37:44Z._
