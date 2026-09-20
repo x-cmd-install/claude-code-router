@@ -4,7 +4,7 @@
 
 One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 
-![claude-code-router](https://repo.x-cmd.io/claude-code-router.svg?lang=zh)
+[![x-cmd/install — claude-code-router Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-code-router.svg?lang=zh)](https://x-cmd.com/install/claude-code-router)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install claude-code-router
 
 ## 流行度
 
-- **Star**: 37,300 · **Fork**: 3,133 · **开放 issue**: 1,356 · **贡献者**: 57
+- **Star**: 37,327 · **Fork**: 3,141 · **开放 issue**: 1,359 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 100 · **开放 PR**: 191 · **已关闭 issue**: 418 · **开放 issue**: 938 · **提交数**: 943
+- **发布数**: 25 · **已合并 PR**: 100 · **开放 PR**: 193 · **已关闭 issue**: 418 · **开放 issue**: 941 · **提交数**: 943
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 19 | 14 | 14 | 49 | 64 |
-| last60d | 2026-07-20 | 10 | 44 | 34 | 41 | 92 | 198 |
-| 90d | 2026-06-20 | 25 | 68 | 46 | 63 | 133 | 428 |
-| last180d | 2026-03-22 | 25 | 68 | 110 | 70 | 194 | 447 |
-| 360d | 2025-09-23 | 25 | 75 | 169 | 136 | 477 | 562 |
-| last720d | 2024-09-28 | 25 | 100 | 191 | 418 | 938 | 943 |
+| 30d | 2026-08-21 | 3 | 17 | 16 | 14 | 50 | 64 |
+| last60d | 2026-07-22 | 9 | 44 | 34 | 41 | 90 | 198 |
+| 90d | 2026-06-22 | 25 | 68 | 47 | 63 | 135 | 428 |
+| last180d | 2026-03-24 | 25 | 68 | 111 | 70 | 195 | 447 |
+| 360d | 2025-09-25 | 25 | 74 | 171 | 134 | 479 | 562 |
+| last720d | 2024-09-30 | 25 | 100 | 193 | 418 | 941 | 943 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ claude-code-router 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:36:06Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:15:59Z._

@@ -4,7 +4,7 @@
 
 One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 
-![claude-code-router](https://repo.x-cmd.io/claude-code-router.svg)
+[![x-cmd/install — claude-code-router Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-code-router.svg)](https://x-cmd.com/install/claude-code-router)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **1,016,429** lines of code across **541** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,300 · **Forks**: 3,133 · **Open issues**: 1,356 · **Contributors**: 57
+- **Stars**: 37,327 · **Forks**: 3,141 · **Open issues**: 1,359 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 100 · **Open PRs**: 191 · **Closed issues**: 418 · **Open issues**: 938 · **Commits**: 943
+- **Releases**: 25 · **Merged PRs**: 100 · **Open PRs**: 193 · **Closed issues**: 418 · **Open issues**: 941 · **Commits**: 943
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 19 | 14 | 14 | 49 | 64 |
-| last60d | 2026-07-20 | 10 | 44 | 34 | 41 | 92 | 198 |
-| 90d | 2026-06-20 | 25 | 68 | 46 | 63 | 133 | 428 |
-| last180d | 2026-03-22 | 25 | 68 | 110 | 70 | 194 | 447 |
-| 360d | 2025-09-23 | 25 | 75 | 169 | 136 | 477 | 562 |
-| last720d | 2024-09-28 | 25 | 100 | 191 | 418 | 938 | 943 |
+| 30d | 2026-08-21 | 3 | 17 | 16 | 14 | 50 | 64 |
+| last60d | 2026-07-22 | 9 | 44 | 34 | 41 | 90 | 198 |
+| 90d | 2026-06-22 | 25 | 68 | 47 | 63 | 135 | 428 |
+| last180d | 2026-03-24 | 25 | 68 | 111 | 70 | 195 | 447 |
+| 360d | 2025-09-25 | 25 | 74 | 171 | 134 | 479 | 562 |
+| last720d | 2024-09-30 | 25 | 100 | 193 | 418 | 941 | 943 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for claude-code-router lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:36:06Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:58Z._
