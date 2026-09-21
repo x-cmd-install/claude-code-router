@@ -33,27 +33,27 @@ Total: **1,016,429** lines of code across **541** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.1.1` (2026-09-16)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 37,327 · **Forks**: 3,141 · **Open issues**: 1,359 · **Contributors**: 57
+- **Stars**: 37,346 · **Forks**: 3,141 · **Open issues**: 1,359 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 100 · **Open PRs**: 193 · **Closed issues**: 418 · **Open issues**: 941 · **Commits**: 943
+- **Releases**: 25 · **Merged PRs**: 101 · **Open PRs**: 198 · **Closed issues**: 418 · **Open issues**: 941 · **Commits**: 945
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 3 | 17 | 16 | 14 | 50 | 64 |
-| last60d | 2026-07-22 | 9 | 44 | 34 | 41 | 90 | 198 |
-| 90d | 2026-06-22 | 25 | 68 | 47 | 63 | 135 | 428 |
-| last180d | 2026-03-24 | 25 | 68 | 111 | 70 | 195 | 447 |
-| 360d | 2025-09-25 | 25 | 74 | 171 | 134 | 479 | 562 |
-| last720d | 2024-09-30 | 25 | 100 | 193 | 418 | 941 | 943 |
+| 30d | 2026-08-22 | 3 | 18 | 21 | 14 | 47 | 42 |
+| last60d | 2026-07-23 | 9 | 45 | 39 | 38 | 89 | 159 |
+| 90d | 2026-06-23 | 25 | 69 | 52 | 63 | 135 | 391 |
+| last180d | 2026-03-25 | 25 | 69 | 114 | 70 | 194 | 448 |
+| 360d | 2025-09-26 | 25 | 75 | 176 | 133 | 478 | 554 |
+| last720d | 2024-10-01 | 25 | 101 | 198 | 418 | 941 | 945 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for claude-code-router lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:58Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:26:13Z._
