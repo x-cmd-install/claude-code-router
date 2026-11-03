@@ -38,7 +38,7 @@ Total: **1,098,982** lines of code across **566** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,949 · **Forks**: 3,187 · **Open issues**: 1,411 · **Contributors**: 66
+- **Stars**: 37,970 · **Forks**: 3,188 · **Open issues**: 1,411 · **Contributors**: 66
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,098,982** lines of code across **566** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 4 | 44 | 8 | 23 | 6 |
-| last60d | 2026-09-03 | 4 | 23 | 55 | 44 | 41 | 58 |
-| 90d | 2026-08-04 | 8 | 46 | 74 | 64 | 91 | 134 |
-| last180d | 2026-05-06 | 27 | 82 | 116 | 106 | 172 | 477 |
-| 360d | 2025-11-07 | 27 | 82 | 208 | 147 | 399 | 531 |
-| last720d | 2024-11-12 | 27 | 114 | 237 | 463 | 948 | 989 |
+| 30d | 2026-10-04 | 2 | 4 | 43 | 8 | 23 | 0 |
+| last60d | 2026-09-04 | 4 | 22 | 55 | 42 | 41 | 0 |
+| 90d | 2026-08-05 | 8 | 44 | 74 | 64 | 90 | 0 |
+| last180d | 2026-05-07 | 27 | 82 | 116 | 105 | 172 | 0 |
+| 360d | 2025-11-08 | 27 | 82 | 208 | 147 | 399 | 0 |
+| last720d | 2024-11-13 | 27 | 114 | 237 | 463 | 948 | 989 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for claude-code-router lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:28:36Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:20:33Z._
