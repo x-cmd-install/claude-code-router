@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 123027907,
       "digest": "sha256:1b9f2072459774b33c426bcb7b707572c44f16494db489481d1d89ac1f94eb58",
-      "download_count": 232,
+      "download_count": 257,
       "created_at": "2026-11-16T10:16:37Z",
       "updated_at": "2026-11-16T10:16:44Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 117976545,
       "digest": "sha256:11e8f00e090659467068367b108594e8f842fe0d3692d55fa6d77ed5ea151991",
-      "download_count": 59,
+      "download_count": 67,
       "created_at": "2026-11-16T10:16:37Z",
       "updated_at": "2026-11-16T10:16:44Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 123999,
       "digest": "sha256:711a59e6737470751ec4ffdb16594c434872b58a6b9c9e005fc1f5a8f7d004ff",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-11-16T10:16:37Z",
       "updated_at": "2026-11-16T10:16:37Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.zip.blockmap"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 128972085,
       "digest": "sha256:314c7ab7f98a6cd15bab5379ae0ec3079a8df26e3282e7c04cd99f2efc395cc7",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-11-16T10:16:37Z",
       "updated_at": "2026-11-16T10:16:44Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Intel-x64.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 123876951,
       "digest": "sha256:6d8f8d29876f6c1f85f102b19f0bcf746c4b03d3a0fd15cb4ee6b9d2bb1c3471",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-16T10:16:38Z",
       "updated_at": "2026-11-16T10:16:44Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Intel-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 127310196,
       "digest": "sha256:275ac2927e2e8c7edaa094948a5456b1ce3e60b02405310274e06e371f245977",
-      "download_count": 103,
+      "download_count": 119,
       "created_at": "2026-11-16T10:17:52Z",
       "updated_at": "2026-11-16T10:17:56Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5.AppImage"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 112395184,
       "digest": "sha256:b0be6a7be9283a41c3983922c58167d5935fc1a30a8f8fbaf5beeb3a7cadeaad",
-      "download_count": 828,
+      "download_count": 934,
       "created_at": "2026-11-16T10:19:33Z",
       "updated_at": "2026-11-16T10:19:38Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 118359,
       "digest": "sha256:0d9fe6ced0949fb236858611b9eb8038ac2c8658baf120eb2352b1501f84af74",
-      "download_count": 180,
+      "download_count": 194,
       "created_at": "2026-11-16T10:19:33Z",
       "updated_at": "2026-11-16T10:19:33Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5.exe.blockmap"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:6f772b38222e70bef6b08e1ec09730afa7c889b16fd6d131fe9265a32742ffe0",
-      "download_count": 161,
+      "download_count": 177,
       "created_at": "2026-11-16T10:17:57Z",
       "updated_at": "2026-11-16T10:17:57Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/latest-linux.yml"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 930,
       "digest": "sha256:4e960c4d0ea478c2d05e2b8d1cca8d3352997d7b102f37ce5774f04357faf723",
-      "download_count": 800,
+      "download_count": 919,
       "created_at": "2026-11-16T10:16:39Z",
       "updated_at": "2026-11-16T10:16:39Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/latest-mac.yml"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 353,
       "digest": "sha256:9d0a514fdc02d4f0fd8bfd67295320984df730b181354075887cb7bc2e8e7305",
-      "download_count": 2314,
+      "download_count": 2669,
       "created_at": "2026-11-16T10:19:38Z",
       "updated_at": "2026-11-16T10:19:38Z",
       "browser_download_url": "https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/latest.yml"
