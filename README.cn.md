@@ -14,14 +14,14 @@ x install claude-code-router
 
 ## 代码洞察
 
-合计: **1,103,774** 行代码（覆盖前 5 种语言、共 **595** 个文件）。
+合计: **1,105,599** 行代码（覆盖前 5 种语言、共 **601** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 860,473 | 0 | 0 | 28 |
-| TypeScript | 126,432 | 1,094 | 10,639 | 300 |
-| JavaScript | 67,663 | 293 | 4,366 | 202 |
-| Tsx | 39,592 | 125 | 2,430 | 63 |
+| TypeScript | 127,775 | 1,119 | 10,431 | 304 |
+| JavaScript | 68,036 | 293 | 4,388 | 204 |
+| Tsx | 39,701 | 125 | 2,434 | 63 |
 | Yaml | 4,454 | 1 | 1,356 | 2 |
 
 ## 源代码
@@ -32,47 +32,47 @@ x install claude-code-router
 
 ## 发布
 
-- **最新版本**: `v3.1.5` (2026-11-16)
-- **最近提交**: 2026-11-16
+- **最新版本**: `v3.1.6` (2026-11-21)
+- **最近提交**: 2026-11-21
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 38,282 · **Fork**: 3,230 · **开放 issue**: 1,423 · **贡献者**: 76
+- **Star**: 38,298 · **Fork**: 3,230 · **开放 issue**: 1,424 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 135 · **开放 PR**: 221 · **已关闭 issue**: 494 · **开放 issue**: 929 · **提交数**: 1039
+- **发布数**: 30 · **已合并 PR**: 137 · **开放 PR**: 224 · **已关闭 issue**: 494 · **开放 issue**: 930 · **提交数**: 1046
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 16 | 14 | 13 | 7 | 0 |
-| last60d | 2026-09-22 | 4 | 31 | 34 | 45 | 16 | 0 |
-| 90d | 2026-08-23 | 7 | 51 | 46 | 81 | 40 | 0 |
-| last180d | 2026-05-25 | 29 | 103 | 88 | 134 | 143 | 0 |
-| 360d | 2025-11-26 | 29 | 103 | 190 | 166 | 344 | 0 |
-| last720d | 2024-12-01 | 29 | 135 | 221 | 494 | 929 | 1039 |
+| 30d | 2026-10-23 | 3 | 18 | 17 | 13 | 8 | 28 |
+| last60d | 2026-09-23 | 5 | 31 | 37 | 44 | 16 | 53 |
+| 90d | 2026-08-24 | 8 | 51 | 49 | 81 | 40 | 124 |
+| last180d | 2026-05-26 | 30 | 105 | 91 | 134 | 144 | 511 |
+| 360d | 2025-11-27 | 30 | 105 | 193 | 166 | 343 | 560 |
+| last720d | 2024-12-02 | 30 | 137 | 224 | 494 | 930 | 1046 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.dmg](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.dmg) | 117.3 MiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.dmg.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.dmg.blockmap) | 127.5 KiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.zip](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.zip) | 112.5 MiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.zip.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Apple-Silicon-arm64.zip.blockmap) | 121.1 KiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Intel-x64.dmg](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Intel-x64.dmg) | 123.0 MiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Intel-x64.dmg.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Intel-x64.dmg.blockmap) | 131.8 KiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Intel-x64.zip](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Intel-x64.zip) | 118.1 MiB | `other` |
-| [Claude-Code-Router_3.1.5-mac-Intel-x64.zip.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5-mac-Intel-x64.zip.blockmap) | 128.7 KiB | `other` |
-| [Claude-Code-Router_3.1.5.AppImage](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5.AppImage) | 121.4 MiB | `other` |
-| [Claude-Code-Router_3.1.5.exe](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5.exe) | 107.2 MiB | `other` |
-| [Claude-Code-Router_3.1.5.exe.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/Claude-Code-Router_3.1.5.exe.blockmap) | 115.6 KiB | `other` |
-| [latest-linux.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/latest-linux.yml) | 388 B | `other` |
-| [latest-mac.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/latest-mac.yml) | 930 B | `other` |
-| [latest.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.5/latest.yml) | 353 B | `other` |
+| [Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.dmg](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.dmg) | 117.4 MiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.dmg.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.dmg.blockmap) | 127.4 KiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.zip](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.zip) | 112.6 MiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.zip.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Apple-Silicon-arm64.zip.blockmap) | 121.6 KiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Intel-x64.dmg](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Intel-x64.dmg) | 123.1 MiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Intel-x64.dmg.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Intel-x64.dmg.blockmap) | 133.1 KiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Intel-x64.zip](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Intel-x64.zip) | 118.3 MiB | `other` |
+| [Claude-Code-Router_3.1.6-mac-Intel-x64.zip.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6-mac-Intel-x64.zip.blockmap) | 128.9 KiB | `other` |
+| [Claude-Code-Router_3.1.6.AppImage](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6.AppImage) | 121.6 MiB | `other` |
+| [Claude-Code-Router_3.1.6.exe](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6.exe) | 107.3 MiB | `other` |
+| [Claude-Code-Router_3.1.6.exe.blockmap](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/Claude-Code-Router_3.1.6.exe.blockmap) | 115.3 KiB | `other` |
+| [latest-linux.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/latest-linux.yml) | 388 B | `other` |
+| [latest-mac.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/latest-mac.yml) | 930 B | `other` |
+| [latest.yml](https://github.com/musistudio/claude-code-router/releases/download/v3.1.6/latest.yml) | 353 B | `other` |
 
 ## 发行版状态
 
@@ -92,4 +92,4 @@ claude-code-router 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:15:57Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T07:33:36Z._
