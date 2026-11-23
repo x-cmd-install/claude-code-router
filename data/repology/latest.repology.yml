@@ -13,14 +13,14 @@
 - repo: chocolatey
   binname: claude-code-router
   visiblename: Claude Code Router
-  version: 3.1.3
+  version: 3.1.6
   origversion: null
-  status: outdated
+  status: newest
   summary: 'One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control'
 - repo: homebrew
   srcname: claude-code-router
   visiblename: claude-code-router
-  version: 3.1.5
+  version: 3.1.6
   origversion: null
   status: newest
   summary: Tool to route Claude Code requests to different models and customize any request
